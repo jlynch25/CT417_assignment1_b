@@ -34,7 +34,7 @@
     <dependency>
 	    <groupId>com.github.jlynch25</groupId>
 	    <artifactId>CT417_assignment1</artifactId>
-	    <version>v1.0.1</version>
+	    <version>v1.0.2</version>
   	</dependency>
   </dependencies>
 

@@ -13,10 +13,10 @@ public class App
         // DateTime courseEnd = new DateTime(2020, 12, 30, 20, 12);
         // Course course0 = new Course("CSIT", courseStart, courseEnd);
 
-        Module module0 = new Module("Software Enginering III", "CT417");
+        // Module module0 = new Module("Software Enginering III", "CT417");
 
-        DateTime studentDob = new DateTime(2020, 01, 02, 20, 12);
-        Student student0 = new Student("Jack Lynch", 22, studentDob, 17370591,  "jlynch25");
+        // DateTime studentDob = new DateTime(2020, 01, 02, 20, 12);
+        // Student student0 = new Student("Jack Lynch", 22, studentDob, 17370591,  "jlynch25");
 
 
         // courseStart = new DateTime(2010, 02, 02, 20, 15);
@@ -37,11 +37,11 @@ public class App
         // studentDob = new DateTime(1998, 01, 02, 20, 12);
         // Student student2 = new Student("steve man", 22, studentDob, 25239316,  "waz");
 
-        System.out.println( module0.getStudents() );
+        // System.out.println( module0.getStudents() );
 
-        module0.addStudent(student0);
+        // module0.addStudent(student0);
 
 
-        System.out.println( module0.getStudents() );
+        // System.out.println( module0.getStudents() );
     }
 }
